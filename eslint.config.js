@@ -23,6 +23,7 @@ export default defineConfig([
     },
     rules: {
       'prettier/prettier': 'error',
+      'react/prop-types': 0,
     },
   },
 ]);
